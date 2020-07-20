@@ -15,7 +15,6 @@ The original code I was given used a lot of div tags instead of semantic element
   
 5.) Giving the title element a concise and descriptive title: The original title element did not contain a concise and descriptive title, so I added one to better describe the website. I used the official name of the company, Horiseon Social Solution Services, Inc. 
 
-#Additional changes 
-I noticed in the original code that the Search Image Optimization link in the header did not take you to its description in the main content like the other two,
-Online Reputation Management and Social Media Marketing. The latter two, had included an id that in CSS sheet enabled the link from the header to the main content. So I added an id to the Search Engine Optimization.
+# Additional changes 
+I noticed in the original code that the Search Image Optimization link in the header did not take you to its description in the main content like the other two, Online Reputation Management and Social Media Marketing. The latter two, had included an id that in CSS sheet enabled the link from the header to the main content. So I added an id to the Search Engine Optimization.
 I also changed the url to the digital marketing meeting image in the CSS page to make it easier to load.
